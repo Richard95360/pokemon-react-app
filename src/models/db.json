@@ -14,11 +14,12 @@
     {
       "id": 2,
       "name": "Salamèche",
-      "hp": 28,
+      "hp": "280",
       "cp": 6,
       "picture": "https://assets.pokemon.com/assets/cms2/img/pokedex/detail/004.png",
       "types": [
-        "Feu"
+        "Feu",
+        "Insecte"
       ]
     },
     {
